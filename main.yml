@@ -1,0 +1,44 @@
+# .github/workflows/main.yml
+
+name: Download nodes-towns from Crusalis AOD3 Website
+
+on:
+  schedule:
+    - cron: '0 22 * * *'  # Every day at 12 AM CEST (10 PM UTC)
+    - cron: '45 17 * * 6'
+    - cron: '0 23 * * 6'
+    - cron: '0 19 * * 4' 
+    - cron: '0 19 * * 5' 
+  workflow_dispatch:
+
+jobs:
+  download-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download file
+        run: |
+          url="https://map.crusalis.net/nodes/towns.json"
+          dt=$(date +"%Y%m%d_%H%M%S")
+          filename="nodes-towns_${dt}.json"
+          curl -fsSL "$url" -o "$filename"
+          echo "filename=$filename" >> $GITHUB_ENV
+          echo "dt=$(date -u)" >> $GITHUB_ENV
+      
+      - name: Commit file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$filename"
+          git commit -m "Add nodes-towns file downloaded at $(date -u)"
+          git push
+
+      - name: Send file to Discord
+        uses: appleboy/discord-action@v1.2.0
+        with:
+          webhook_url: ${{ secrets.DATA_WEBHOOK_URL }}
+          message: "nodes-towns file downloaded at ${{ env.dt }}"
+          file: ${{ env.filename }}
+
