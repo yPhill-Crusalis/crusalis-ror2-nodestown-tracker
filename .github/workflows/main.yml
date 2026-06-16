@@ -1,5 +1,3 @@
-# .github/workflows/main.yml
-
 name: Download nodes-towns from Crusalis AOD3 Website
 
 on:
@@ -23,7 +21,11 @@ jobs:
           url="https://map.crusalis.net/nodes/towns.json"
           dt=$(date +"%Y%m%d_%H%M%S")
           filename="nodes-towns_${dt}.json"
-          curl -fsSL "$url" -o "$filename"
+          # The site uses nginx hotlink protection (valid_referers): requests
+          # without a matching Referer header are rejected with HTTP 403.
+          curl -fsSL -H "Referer: https://map.crusalis.net/" "$url" -o "$filename"
+          # Fail early if the download is not valid JSON (e.g. an error page).
+          python3 -c "import json,sys; json.load(open('$filename'))"
           echo "filename=$filename" >> $GITHUB_ENV
           echo "dt=$(date -u)" >> $GITHUB_ENV
       
@@ -41,4 +43,3 @@ jobs:
           webhook_url: ${{ secrets.DATA_WEBHOOK_URL }}
           message: "nodes-towns file downloaded at ${{ env.dt }}"
           file: ${{ env.filename }}
-
