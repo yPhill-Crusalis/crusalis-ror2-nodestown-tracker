@@ -6,7 +6,8 @@ on:
     workflows: ["Download nodes-towns from Crusalis AOD3 Website"]
     types:
       - completed #hmm
-
+permissions:
+    contents: write
 jobs:
   process:
     runs-on: ubuntu-latest
