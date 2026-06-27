@@ -5,7 +5,7 @@ on:
   workflow_run:
     workflows: ["Download nodes-towns from Crusalis AOD3 Website"]
     types:
-      - completed
+      - completed #hmm
 
 jobs:
   process:
