@@ -1,9 +1,11 @@
 {
   "lastonline": [
-    "🟡 User was NOT online. (data from Sat, 27 Jun 2026 16:01:13 GMT)"
+    "🟡 User was NOT online. (data from Sat, 27 Jun 2026 16:01:13 GMT)",
+    "🟢 User was online at Sat, 27 Jun 2026 18:19:18 GMT. (data from Sat, 27 Jun 2026 18:49:26 GMT)"
   ],
   "lasttown": [
     "🏠 User joined town `Carthago` at Fri, 26 Jun 2026 20:50:13 GMT. (data from Sat, 27 Jun 2026 15:53:23 GMT)",
-    "⬇ (data from Sat, 27 Jun 2026 16:01:13 GMT)"
+    "⬇ (data from Sat, 27 Jun 2026 16:01:13 GMT)",
+    "⬇ (data from Sat, 27 Jun 2026 18:49:26 GMT)"
   ]
 }

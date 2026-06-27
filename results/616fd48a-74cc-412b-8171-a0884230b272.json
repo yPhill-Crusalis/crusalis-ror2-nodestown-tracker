@@ -1,9 +1,11 @@
 {
   "lastonline": [
-    "🟡 User was NOT online. (data from Sat, 27 Jun 2026 16:01:13 GMT)"
+    "🟡 User was NOT online. (data from Sat, 27 Jun 2026 16:01:13 GMT)",
+    "🟢 User was online at Sat, 27 Jun 2026 18:39:03 GMT. (data from Sat, 27 Jun 2026 18:49:26 GMT)"
   ],
   "lasttown": [
     "🏠 User joined town `Volterra` at Mon, 22 Jun 2026 11:44:24 GMT. (data from Sat, 27 Jun 2026 15:53:23 GMT)",
-    "⬇ (data from Sat, 27 Jun 2026 16:01:13 GMT)"
+    "⬇ (data from Sat, 27 Jun 2026 16:01:13 GMT)",
+    "⬇ (data from Sat, 27 Jun 2026 18:49:26 GMT)"
   ]
 }
