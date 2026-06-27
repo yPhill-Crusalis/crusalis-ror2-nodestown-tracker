@@ -22,7 +22,11 @@ function fetchAndMergeFiles() {
 }
 
 const fetchedAndMergedFiles = fetchAndMergeFiles()
-
+if (fetchedAndMergedFiles.length < 2) {
+    console.log(`Only ${fetchedAndMergedFiles.length} file(s); need 2+.
+  Skipping.`);
+    process.exit(0);
+  }
 // Helper function: Convert filename to Unix timestamp
 function filenameToUnixtimestamp(filename) {
   // Extract the date and time part from the filename
