@@ -11,7 +11,8 @@
     "🟢 User was online at Thu, 02 Jul 2026 01:17:49 GMT. (data from Thu, 02 Jul 2026 18:24:14 GMT)",
     "🟢 User was online at Thu, 02 Jul 2026 21:54:22 GMT. (data from Thu, 02 Jul 2026 22:59:39 GMT)",
     "🟡 User was NOT online. (data from Fri, 03 Jul 2026 18:11:57 GMT)",
-    "🟢 User was online at Fri, 03 Jul 2026 20:29:35 GMT. (data from Fri, 03 Jul 2026 22:57:35 GMT)"
+    "🟢 User was online at Fri, 03 Jul 2026 20:29:35 GMT. (data from Fri, 03 Jul 2026 22:57:35 GMT)",
+    "🟢 User was online at Sat, 04 Jul 2026 16:25:41 GMT. (data from Sat, 04 Jul 2026 16:42:33 GMT)"
   ],
   "lasttown": [
     "🏠 User joined town `Serdica` at Fri, 19 Jun 2026 18:38:13 GMT. (data from Sat, 27 Jun 2026 15:53:23 GMT)",
@@ -26,6 +27,7 @@
     "🔴 User left last town. (data from Thu, 02 Jul 2026 18:24:14 GMT)",
     "⬇ (data from Thu, 02 Jul 2026 22:59:39 GMT)",
     "⬇ (data from Fri, 03 Jul 2026 18:11:57 GMT)",
-    "🏠 User joined town `Serdica` at Fri, 03 Jul 2026 19:54:40 GMT. (data from Fri, 03 Jul 2026 22:57:35 GMT)"
+    "🏠 User joined town `Serdica` at Fri, 03 Jul 2026 19:54:40 GMT. (data from Fri, 03 Jul 2026 22:57:35 GMT)",
+    "⬇ (data from Sat, 04 Jul 2026 16:42:33 GMT)"
   ]
 }
