@@ -13,7 +13,8 @@
     "🟢 User was online at Fri, 03 Jul 2026 15:44:44 GMT. (data from Fri, 03 Jul 2026 18:11:57 GMT)",
     "🟢 User was online at Fri, 03 Jul 2026 21:07:12 GMT. (data from Fri, 03 Jul 2026 22:57:35 GMT)",
     "🟢 User was online at Sat, 04 Jul 2026 01:08:15 GMT. (data from Sat, 04 Jul 2026 16:42:33 GMT)",
-    "🟢 User was online at Sat, 04 Jul 2026 18:31:23 GMT. (data from Sat, 04 Jul 2026 21:30:05 GMT)"
+    "🟢 User was online at Sat, 04 Jul 2026 18:31:23 GMT. (data from Sat, 04 Jul 2026 21:30:05 GMT)",
+    "🟡 User was NOT online. (data from Sat, 04 Jul 2026 22:53:44 GMT)"
   ],
   "lasttown": [
     "🏠 User joined town `Athens` at Mon, 22 Jun 2026 22:43:57 GMT. (data from Sat, 27 Jun 2026 15:53:23 GMT)",
@@ -30,6 +31,7 @@
     "⬇ (data from Fri, 03 Jul 2026 18:11:57 GMT)",
     "⬇ (data from Fri, 03 Jul 2026 22:57:35 GMT)",
     "⬇ (data from Sat, 04 Jul 2026 16:42:33 GMT)",
-    "⬇ (data from Sat, 04 Jul 2026 21:30:05 GMT)"
+    "⬇ (data from Sat, 04 Jul 2026 21:30:05 GMT)",
+    "⬇ (data from Sat, 04 Jul 2026 22:53:44 GMT)"
   ]
 }
