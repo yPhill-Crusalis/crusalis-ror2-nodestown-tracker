@@ -19,7 +19,8 @@
     "🚫 User has not yet joined the server. (data from Mon, 06 Jul 2026 23:02:45 GMT)",
     "🚫 User has not yet joined the server. (data from Tue, 07 Jul 2026 22:55:56 GMT)",
     "🚫 User has not yet joined the server. (data from Wed, 08 Jul 2026 23:00:00 GMT)",
-    "🚪 User has joined the server for the first time and was last online at at Thu, 09 Jul 2026 15:35:06 GMT. (data from Thu, 09 Jul 2026 18:48:07 GMT)"
+    "🚪 User has joined the server for the first time and was last online at at Thu, 09 Jul 2026 15:35:06 GMT. (data from Thu, 09 Jul 2026 18:48:07 GMT)",
+    "🟡 User was NOT online. (data from Thu, 09 Jul 2026 23:07:15 GMT)"
   ],
   "lasttown": [
     "🚫 User has not yet joined the server. (data from Sat, 27 Jun 2026 15:53:23 GMT)",
@@ -42,6 +43,7 @@
     "⬇ (data from Mon, 06 Jul 2026 23:02:45 GMT)",
     "⬇ (data from Tue, 07 Jul 2026 22:55:56 GMT)",
     "⬇ (data from Wed, 08 Jul 2026 23:00:00 GMT)",
-    "🏠 User joined town `Tarentum` at Thu, 09 Jul 2026 15:16:00 GMT. (data from Thu, 09 Jul 2026 18:48:07 GMT)"
+    "🏠 User joined town `Tarentum` at Thu, 09 Jul 2026 15:16:00 GMT. (data from Thu, 09 Jul 2026 18:48:07 GMT)",
+    "⬇ (data from Thu, 09 Jul 2026 23:07:15 GMT)"
   ]
 }
