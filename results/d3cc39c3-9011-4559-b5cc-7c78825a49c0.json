@@ -46,7 +46,8 @@
     "🚫 User has not yet joined the server. (data from Fri, 24 Jul 2026 18:16:26 GMT)",
     "🚫 User has not yet joined the server. (data from Fri, 24 Jul 2026 22:57:04 GMT)",
     "🚫 User has not yet joined the server. (data from Sat, 25 Jul 2026 16:35:20 GMT)",
-    "🚪 User has joined the server for the first time and was last online at at Sat, 25 Jul 2026 17:24:51 GMT. (data from Sat, 25 Jul 2026 21:27:29 GMT)"
+    "🚪 User has joined the server for the first time and was last online at at Sat, 25 Jul 2026 17:24:51 GMT. (data from Sat, 25 Jul 2026 21:27:29 GMT)",
+    "🟡 User was NOT online. (data from Sat, 25 Jul 2026 22:49:35 GMT)"
   ],
   "lasttown": [
     "🚫 User has not yet joined the server. (data from Sat, 27 Jun 2026 15:53:23 GMT)",
@@ -96,6 +97,7 @@
     "⬇ (data from Fri, 24 Jul 2026 18:16:26 GMT)",
     "⬇ (data from Fri, 24 Jul 2026 22:57:04 GMT)",
     "⬇ (data from Sat, 25 Jul 2026 16:35:20 GMT)",
-    "🏠 User joined town `Rhodes` at Sat, 25 Jul 2026 16:55:47 GMT. (data from Sat, 25 Jul 2026 21:27:29 GMT)"
+    "🏠 User joined town `Rhodes` at Sat, 25 Jul 2026 16:55:47 GMT. (data from Sat, 25 Jul 2026 21:27:29 GMT)",
+    "⬇ (data from Sat, 25 Jul 2026 22:49:35 GMT)"
   ]
 }
