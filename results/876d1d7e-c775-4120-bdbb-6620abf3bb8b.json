@@ -52,7 +52,8 @@
     "🟢 User was online at Mon, 27 Jul 2026 22:52:43 GMT. (data from Mon, 27 Jul 2026 22:55:55 GMT)",
     "🟢 User was online at Tue, 28 Jul 2026 18:36:11 GMT. (data from Tue, 28 Jul 2026 22:54:25 GMT)",
     "🟢 User was online at Wed, 29 Jul 2026 19:24:07 GMT. (data from Wed, 29 Jul 2026 22:56:18 GMT)",
-    "🟢 User was online at Thu, 30 Jul 2026 05:53:12 GMT. (data from Thu, 30 Jul 2026 18:13:01 GMT)"
+    "🟢 User was online at Thu, 30 Jul 2026 05:53:12 GMT. (data from Thu, 30 Jul 2026 18:13:01 GMT)",
+    "🟡 User was NOT online. (data from Thu, 30 Jul 2026 22:59:55 GMT)"
   ],
   "lasttown": [
     "🏠 User joined town `Gordion` at Invalid Date. (data from Sat, 27 Jun 2026 15:53:23 GMT)",
@@ -108,6 +109,7 @@
     "🏠 User joined town `Antigonea` at Mon, 27 Jul 2026 02:45:06 GMT. (data from Mon, 27 Jul 2026 22:55:55 GMT)",
     "🏠 User joined town `Pylos` at Tue, 28 Jul 2026 13:29:49 GMT. (data from Tue, 28 Jul 2026 22:54:25 GMT)",
     "🏠 User joined town `Gordion` at Wed, 29 Jul 2026 20:08:38 GMT. (data from Wed, 29 Jul 2026 22:56:18 GMT)",
-    "⬇ (data from Thu, 30 Jul 2026 18:13:01 GMT)"
+    "⬇ (data from Thu, 30 Jul 2026 18:13:01 GMT)",
+    "⬇ (data from Thu, 30 Jul 2026 22:59:55 GMT)"
   ]
 }

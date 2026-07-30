@@ -52,7 +52,8 @@
     "🟢 User was online at Mon, 27 Jul 2026 04:08:37 GMT. (data from Mon, 27 Jul 2026 22:55:55 GMT)",
     "🟢 User was online at Tue, 28 Jul 2026 21:47:23 GMT. (data from Tue, 28 Jul 2026 22:54:25 GMT)",
     "🟢 User was online at Wed, 29 Jul 2026 21:21:56 GMT. (data from Wed, 29 Jul 2026 22:56:18 GMT)",
-    "🟢 User was online at Thu, 30 Jul 2026 05:35:37 GMT. (data from Thu, 30 Jul 2026 18:13:01 GMT)"
+    "🟢 User was online at Thu, 30 Jul 2026 05:35:37 GMT. (data from Thu, 30 Jul 2026 18:13:01 GMT)",
+    "🟡 User was NOT online. (data from Thu, 30 Jul 2026 22:59:55 GMT)"
   ],
   "lasttown": [
     "🏠 User joined town `Maasai` at Fri, 26 Jun 2026 15:01:21 GMT. (data from Sat, 27 Jun 2026 15:53:23 GMT)",
@@ -108,6 +109,7 @@
     "⬇ (data from Mon, 27 Jul 2026 22:55:55 GMT)",
     "⬇ (data from Tue, 28 Jul 2026 22:54:25 GMT)",
     "⬇ (data from Wed, 29 Jul 2026 22:56:18 GMT)",
-    "⬇ (data from Thu, 30 Jul 2026 18:13:01 GMT)"
+    "⬇ (data from Thu, 30 Jul 2026 18:13:01 GMT)",
+    "⬇ (data from Thu, 30 Jul 2026 22:59:55 GMT)"
   ]
 }
