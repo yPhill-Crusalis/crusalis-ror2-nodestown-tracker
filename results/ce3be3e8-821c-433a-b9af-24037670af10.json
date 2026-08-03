@@ -59,7 +59,8 @@
     "🟡 User was NOT online. (data from Sat, 01 Aug 2026 16:37:46 GMT)",
     "🟢 User was online at Sat, 01 Aug 2026 20:00:45 GMT. (data from Sat, 01 Aug 2026 21:27:12 GMT)",
     "🟡 User was NOT online. (data from Sat, 01 Aug 2026 22:49:31 GMT)",
-    "🟢 User was online at Sun, 02 Aug 2026 12:23:07 GMT. (data from Sun, 02 Aug 2026 22:50:56 GMT)"
+    "🟢 User was online at Sun, 02 Aug 2026 12:23:07 GMT. (data from Sun, 02 Aug 2026 22:50:56 GMT)",
+    "🟡 User was NOT online. (data from Mon, 03 Aug 2026 22:55:32 GMT)"
   ],
   "lasttown": [
     "🏠 User joined town `Neapolis` at Fri, 26 Jun 2026 20:17:37 GMT. (data from Sat, 27 Jun 2026 15:53:23 GMT)",
@@ -122,6 +123,7 @@
     "⬇ (data from Sat, 01 Aug 2026 16:37:46 GMT)",
     "⬇ (data from Sat, 01 Aug 2026 21:27:12 GMT)",
     "⬇ (data from Sat, 01 Aug 2026 22:49:31 GMT)",
-    "⬇ (data from Sun, 02 Aug 2026 22:50:56 GMT)"
+    "⬇ (data from Sun, 02 Aug 2026 22:50:56 GMT)",
+    "⬇ (data from Mon, 03 Aug 2026 22:55:32 GMT)"
   ]
 }
