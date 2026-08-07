@@ -64,7 +64,8 @@
     "🟡 User was NOT online. (data from Tue, 04 Aug 2026 22:57:42 GMT)",
     "🟡 User was NOT online. (data from Wed, 05 Aug 2026 22:53:54 GMT)",
     "🟡 User was NOT online. (data from Fri, 07 Aug 2026 01:28:42 GMT)",
-    "🟡 User was NOT online. (data from Fri, 07 Aug 2026 17:47:48 GMT)"
+    "🟡 User was NOT online. (data from Fri, 07 Aug 2026 17:47:48 GMT)",
+    "🟢 User was online at Fri, 07 Aug 2026 22:23:30 GMT. (data from Fri, 07 Aug 2026 22:29:13 GMT)"
   ],
   "lasttown": [
     "🏠 User joined town `Carthago` at Sat, 20 Jun 2026 17:05:12 GMT. (data from Sat, 27 Jun 2026 15:53:23 GMT)",
@@ -132,6 +133,7 @@
     "⬇ (data from Tue, 04 Aug 2026 22:57:42 GMT)",
     "⬇ (data from Wed, 05 Aug 2026 22:53:54 GMT)",
     "⬇ (data from Fri, 07 Aug 2026 01:28:42 GMT)",
-    "⬇ (data from Fri, 07 Aug 2026 17:47:48 GMT)"
+    "⬇ (data from Fri, 07 Aug 2026 17:47:48 GMT)",
+    "⬇ (data from Fri, 07 Aug 2026 22:29:13 GMT)"
   ]
 }
